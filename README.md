@@ -8,4 +8,11 @@ A repo specifically to track issues with avrae workshop creations
 - [Short Rest with Warlock Multiclass Support](https://github.com/SourcererCodex/Avrae-Workshop/tree/main/Short%20Rest%20with%20Warlock%20Multiclass%20Support)
 
 ### When Submitting an Issue:
-Make sure to link to the proper Project the issue is regarding
+Try to include helpful information like:
+- [Bug]
+- [Feature Request]
+- [Hunting]
+- [Lifestyle]
+- [Foraging]
+
+In the title so that I can properly take action
